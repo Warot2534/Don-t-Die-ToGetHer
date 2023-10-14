@@ -1,6 +1,5 @@
 #!/bin/bash
-git remote add origin https://github.com/Warot2534/Don-t-Die-ToGetHer
-git config --global credential.https://github.com.token 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
+git remote set-url origin https://Warot2534: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@github.com/Warot2534/Don-t-Die-ToGetHer.git@github.com/Warot2534/Don-t-Die-ToGetHer.git
 git config --global user.email "warmmy171131@gmail.com"
 git config --global user.name "Warot2534"
 git add .
