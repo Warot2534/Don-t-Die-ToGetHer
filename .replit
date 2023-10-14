@@ -7,6 +7,5 @@ hidden = [".pythonlibs"]
 channel = "stable-23_05"
 
 [deployment]
-run = ["python3", "main.py"]
+run = "bash autocommit.sh & python3 main.py"
 deploymentTarget = "cloudrun"
-run = "bash autocommit.sh"
