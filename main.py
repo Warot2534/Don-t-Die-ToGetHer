@@ -9,7 +9,6 @@ def clear():
 
 shellscript = subprocess.Popen(["./autocommit.sh"], stdin=subprocess.PIPE)
 returncode = shellscript.wait()   
-clear()
 
 save_file_name = 'game_state.pkl'
 choice = ''
