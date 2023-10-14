@@ -44,7 +44,8 @@ player = {
 }
 mark_reduction = 0
 
-print('V1.5')
+print('V1.51')
+print("GitHub Save system")
 print("Save system fixed")
 print("Weapon/armor upgrade system \nMore balanced gameplay")
 horde_multiplier = 1.4
