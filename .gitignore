@@ -1,0 +1,4 @@
+.replit
+.replitignore
+__pycache__/
+game_state.pkl
