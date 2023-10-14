@@ -216,7 +216,6 @@ def save_game(player, horde_multiplier):
     pickle.dump(save_data, file)
   shellscript = subprocess.Popen(["./autocommit.sh"], stdin=subprocess.PIPE)
   returncode = shellscript.wait()   
-  clear()
 
 
 def load_game():
