@@ -1,5 +1,5 @@
 #!/bin/bash
-https://Warot2534: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@github.com/Warot2534/Don-t-Die-ToGetHer.git
+git remote set-url origin https://Warot2534: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@github.com/Warot2534/Don-t-Die-ToGetHer.git
 
 
 git config --global user.email "warmmy171131@gmail.com"
